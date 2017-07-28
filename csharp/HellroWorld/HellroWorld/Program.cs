@@ -10,6 +10,8 @@ namespace HellroWorld
     {
         static void Main(string[] args)
         {
+            시노자키아이 아이 = new 시노자키아이();
+            아이.보여주다();
         }
     }
 }
