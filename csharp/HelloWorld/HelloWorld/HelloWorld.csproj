@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="시노자키아이.cs" />
+    <Compile Include="shinozaki_ai.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
